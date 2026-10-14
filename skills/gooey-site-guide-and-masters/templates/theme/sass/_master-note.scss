@@ -1,0 +1,86 @@
+@use '../abstracts' as *;
+
+// Master page note: the dashed label above each example on the master (example) pages. Never used on live pages.
+.mnote {
+    padding-block: var(--space-12) var(--space-6);
+    background: var(--color-sand);
+
+    &__box {
+        padding: var(--space-8);
+        border: 2px dashed var(--color-ink);
+        background: var(--color-white);
+
+        @include respond-down(small) {
+            padding: var(--space-6);
+        }
+    }
+
+    &__kind {
+        margin: 0 0 var(--space-2);
+        color: var(--color-coral);
+        font-family: var(--font-heading);
+        font-size: var(--fs-small);
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+    }
+
+    &__title {
+        margin: 0 0 var(--space-3);
+        font-size: var(--fs-h3);
+        line-height: 1.1;
+    }
+
+    &__purpose {
+        max-width: 70ch;
+        margin: 0 0 var(--space-4);
+        font-size: var(--fs-lead);
+    }
+
+    &__label {
+        margin: 0 0 var(--space-2);
+        color: var(--text-secondary);
+        font-family: var(--font-heading);
+        font-size: var(--fs-small);
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+    }
+
+    &__options ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: var(--space-2);
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    &__options li {
+        margin: 0;
+        padding: var(--space-1) var(--space-4);
+        border-radius: var(--radius-full);
+        background: var(--color-sand);
+        font-family: var(--font-heading);
+        font-size: var(--fs-small);
+    }
+
+    &__where {
+        display: flex;
+        align-items: flex-start;
+        gap: var(--space-3);
+        margin: var(--space-4) 0 0;
+        color: var(--text-secondary);
+
+        svg {
+            flex: none;
+            width: 20px;
+            height: 20px;
+            margin-top: 2px;
+            color: var(--color-coral);
+        }
+    }
+}
+
+// A note that opens a page sits below the sticky header, not under it.
+.entry-content > .mnote:first-child {
+    padding-top: calc(var(--header-height) + var(--space-8));
+}

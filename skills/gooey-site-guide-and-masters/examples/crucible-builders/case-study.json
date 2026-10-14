@@ -1,0 +1,74 @@
+[
+    {
+        "section": "Hero: three columns with the title and intro, the main photograph, and a second photograph above a coral stat",
+        "fields": [
+            "Title (the page title at the top of the editor)",
+            "Case study box, below the title: Client name",
+            "Case study box: Title highlight",
+            "Case study box: Intro",
+            "Case study box: Live site URL",
+            "Case study box: Hero stat and Hero stat caption",
+            "Case study box: Hero secondary image",
+            "Featured image (box beside the editor)",
+            "Service areas (box beside the editor)"
+        ],
+        "notes": [
+            "The small line above the title lists the Service areas that are ticked.",
+            "Title highlight is the part of the title shown in coral. Type it exactly as it appears in the title, for example 87% Increase.",
+            "The Intro is the short standfirst under the title.",
+            "The Featured image is the large photograph in the middle. The Hero secondary image sits above the coral stat. If both the secondary image and the stat are empty the third column is left out.",
+            "The Live site URL adds a card with the client name and a Live site button that opens in a new tab. The client name is also shown on case study cards as \"PRJ - client name\"."
+        ]
+    },
+    {
+        "section": "Article: the case study text beside a sticky sidebar",
+        "fields": [
+            "The main editor (the case study text)",
+            "Add block, then Crucible blocks: Stat"
+        ],
+        "notes": [
+            "A good shape is The challenge, What we did and The result, with short paragraphs and lists.",
+            "The Stat block shows one to three big figures. It is a good way to prove the result in the middle of the story."
+        ]
+    },
+    {
+        "section": "Sidebar: the timeline form and the client quote",
+        "fields": [
+            "Case study box: Testimonial"
+        ],
+        "notes": [
+            "The form is the same on every case study.",
+            "Choosing a Testimonial shows its quote, the person's name, their company and their photograph or logo under the form. Without one only the form is shown.",
+            "Testimonials are added under Testimonials in the menu."
+        ]
+    },
+    {
+        "section": "Closing image band: a photograph the full width of the page",
+        "fields": [
+            "The main editor: the last block, an Image block"
+        ],
+        "notes": [
+            "If the very last block of the text is an Image block, it is lifted out of the column and shown edge to edge under the article. Leave it out if you do not want a band."
+        ]
+    },
+    {
+        "section": "Related projects: two case study cards",
+        "fields": [
+            "Case study box: Related projects",
+            "Service areas and Sectors (boxes beside the editor)"
+        ],
+        "notes": [
+            "The first two Related projects that you choose are shown. If you choose fewer, the latest case studies in the same Service area fill the gap.",
+            "Sectors tag the project for the filters on the Case studies page."
+        ]
+    },
+    {
+        "section": "Closing call to action",
+        "fields": [
+            "Built automatically"
+        ],
+        "notes": [
+            "The dark \"Interested in working with us?\" band is a shared pattern and is the same on every case study."
+        ]
+    }
+]

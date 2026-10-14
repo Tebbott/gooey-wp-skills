@@ -1,0 +1,73 @@
+[
+    {
+        "section": "Hero: the service title and intro on the left, a photograph on the right, and the latest case study",
+        "fields": [
+            "Title (the page title at the top of the editor)",
+            "Add block, then Page Sections: Hero (Service)",
+            "Hero (Service) block: Service, Label, Show breadcrumb, Title, Intro, Image, Case study"
+        ],
+        "notes": [
+            "The Hero (Service) block should be the first block. If there is none, the page shows only a plain title.",
+            "Leave Service, Title, Intro and Image empty to use the service's own name, Card summary and Featured image. The Image gets the Crucible image effect.",
+            "A Label replaces the breadcrumb (Services / Service name). The coral full stop after the title is added for you.",
+            "The case study card under the intro is the Case study you choose. If you leave it empty the latest case study for this service is shown, or nothing if there is none."
+        ]
+    },
+    {
+        "section": "Introduction: a headline with a coral phrase, buttons and text",
+        "fields": [
+            "Add block, then Page Sections: Intro Text",
+            "Intro Text block: Background, Headline, Highlighted words, Buttons, Text"
+        ],
+        "notes": [
+            "Highlighted words must be typed exactly as they are in the headline. The coral dot before the headline and the full stop after it are added for you.",
+            "One button is solid. With two, the second is an outline."
+        ]
+    },
+    {
+        "section": "How it works: tabs",
+        "fields": [
+            "Add block, then Page Sections: Tabbed",
+            "Tabbed block: Title, Description, Tabs (label, heading, content, list label, list items)"
+        ],
+        "notes": [
+            "Two to four tabs. The first is open by default.",
+            "Use Heading 3 inside the content for the small sub-heading. List items are one per line."
+        ]
+    },
+    {
+        "section": "Pricing: two to four columns",
+        "fields": [
+            "Add block, then Page Sections: Pricing",
+            "Pricing block: Title, Intro, Columns (style, label, price, suffix, description, features, button)"
+        ],
+        "notes": [
+            "The prices on this master are placeholders. Always type your own.",
+            "Choose the Custom style for a column that shows a big heading instead of a price, such as Tailored to you."
+        ]
+    },
+    {
+        "section": "Questions: FAQs with a changing picture",
+        "fields": [
+            "Add block, then Page Sections: FAQ",
+            "FAQ block: Layout (Questions), Title, Intro text, Questions (question, answer, media, image)"
+        ],
+        "notes": [
+            "In the Questions layout each question has its own image, or a short muted video, shown while it is open.",
+            "Turn on Output FAQ schema only when these are real FAQs."
+        ]
+    },
+    {
+        "section": "Service card and menu (not on this page)",
+        "fields": [
+            "Service box, below the title: Type and Card summary",
+            "Service: overview panel box (side): Overview button text",
+            "Featured image (box beside the editor)"
+        ],
+        "notes": [
+            "Type chooses between a Primary service, which gets an image card on the home page and a mega menu thumbnail, and an Additional service, which is a text link.",
+            "The Card summary and Featured image are used on the service cards and in the menu. The Overview button text is the button on the Services overview panel.",
+            "Saving a service automatically adds a matching Service area, which is how case studies are linked to it."
+        ]
+    }
+]

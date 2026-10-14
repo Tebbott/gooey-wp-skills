@@ -1,0 +1,62 @@
+[
+    {
+        "section": "Hero: a sand panel with the title, standfirst, host and event details beside a large photograph",
+        "fields": [
+            "Title (the page title at the top of the editor)",
+            "Insight box, below the title: Title highlight",
+            "Insight box: Hosted / written by",
+            "Excerpt (box beside the editor)",
+            "Featured image (box beside the editor)",
+            "Format (box beside the editor): Event",
+            "Topics (box beside the editor)",
+            "Event details box: Date and Location"
+        ],
+        "notes": [
+            "Choose the Event format first, so the Event details box appears under the editor.",
+            "Title highlight is the part of the title shown in coral. Type it exactly as it appears in the title.",
+            "The sentence under the title is the Excerpt.",
+            "If a Host is chosen, the byline says \"Hosted by\" with that team member's photograph. If it is empty, the WordPress author is shown as \"Written by\".",
+            "On an event the date shown beside the topics is the event date, not the date the post was published, followed by the location."
+        ]
+    },
+    {
+        "section": "Event details strip: date, location and the booking button",
+        "fields": [
+            "Event details box: Date",
+            "Event details box: Location",
+            "Event details box: Booking link"
+        ],
+        "notes": [
+            "The strip appears above the text as soon as one of the three fields is filled in.",
+            "The Book your place button opens the Booking link in a new tab. Leave the link empty to hide the button."
+        ]
+    },
+    {
+        "section": "Event description: the main column",
+        "fields": [
+            "The main editor (the event description)"
+        ],
+        "notes": [
+            "Use Heading 2 for each section, for example What to expect and Who it is for. They build the On this page list."
+        ]
+    },
+    {
+        "section": "Sidebar: On this page and the timeline form",
+        "fields": [
+            "Built automatically from the Heading 2s"
+        ],
+        "notes": [
+            "There is nothing to fill in. The form is the same on every insight."
+        ]
+    },
+    {
+        "section": "Related insights and the closing call to action",
+        "fields": [
+            "Topics (box beside the editor)"
+        ],
+        "notes": [
+            "Three other insights that share a Topic are shown automatically.",
+            "The dark \"Interested in working with us?\" band is a shared pattern."
+        ]
+    }
+]

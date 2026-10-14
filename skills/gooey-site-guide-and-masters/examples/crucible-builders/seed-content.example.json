@@ -1,0 +1,1006 @@
+[
+    {
+        "type": "testimonial",
+        "slug": "alex-rayner-braxted-park-bng",
+        "title": "Alex Rayner, Braxted Park BNG",
+        "excerpt": "",
+        "menu_order": 1,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "",
+        "terms": [],
+        "fields": {
+            "kind": "client",
+            "quote": "It's great that Crucible are a specialist, we don't have to explain how B2B manufacturing works, we just get straight into the work and you guys understand the flow of how our business operates without explanation.",
+            "person_name": "Alex Rayner",
+            "company": "Braxted Park BNG",
+            "avatar": "avatar-alex.jpg",
+            "stat_value": "150+",
+            "stat_caption": "Projects delivered across SEO, PPC and websites for construction, property and specialist manufacturers",
+            "company_logo": "logo-westbury.png"
+        }
+    },
+    {
+        "type": "testimonial",
+        "slug": "dan-goddard-broxap",
+        "title": "Dan Goddard, Broxap",
+        "excerpt": "",
+        "menu_order": 2,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "",
+        "terms": [],
+        "fields": {
+            "kind": "client",
+            "quote": "Crucible took the time to understand our products and our customers, and the results speak for themselves. A genuinely specialist team.",
+            "person_name": "Dan Goddard",
+            "person_role": "Sales & Marketing Manager",
+            "company": "Broxap",
+            "company_logo": "logo-broxap.png",
+            "stat_value": "10",
+            "stat_caption": "Years in business"
+        }
+    },
+    {
+        "type": "testimonial",
+        "slug": "marcia-garcia-crucible",
+        "title": "Marcia Garcia, Crucible",
+        "excerpt": "",
+        "menu_order": 3,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "",
+        "terms": [],
+        "fields": {
+            "kind": "team",
+            "quote": "Working at Crucible has given me a nice balance where I'm challenged whilst doing what I enjoy. I am very grateful to be part of a team full of amazing individuals.",
+            "person_name": "Marcia Garcia",
+            "person_role": "Digital Marketing Manager",
+            "company": "Crucible",
+            "stat_value": "150+",
+            "stat_caption": "Projects delivered across SEO, PPC and websites for construction, property and specialist manufacturers"
+        }
+    },
+    {
+        "type": "testimonial",
+        "slug": "sam-whybrow-whybrow",
+        "title": "Sam Whybrow, Whybrow",
+        "excerpt": "",
+        "menu_order": 4,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "",
+        "terms": [],
+        "fields": {
+            "kind": "client",
+            "quote": "A clear, honest team who delivered a faster, better-converting website and made the whole process easy.",
+            "person_name": "Sam Whybrow",
+            "person_role": "Managing Director",
+            "company": "Whybrow",
+            "stat_value": "5*",
+            "stat_caption": "Average Google review score"
+        }
+    },
+    {
+        "type": "team_member",
+        "slug": "george-hosegood",
+        "title": "George Hosegood",
+        "excerpt": "",
+        "menu_order": 1,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "team-george-hosegood.jpg",
+        "terms": [],
+        "fields": {
+            "job_title": "Managing Director",
+            "bio": "<p>George has a decade of experience in construction having built, managed and and eventually sold a company that installed cycle racks to the construction industry. That company, Turvec, experienced fast growth through success in digital Marketing. George purchased Crucible from the previous ownership in February of 2025.</p>",
+            "linkedin": "https://www.linkedin.com/"
+        }
+    },
+    {
+        "type": "team_member",
+        "slug": "kerrie-bingle",
+        "title": "Kerrie Bingle",
+        "excerpt": "",
+        "menu_order": 2,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "team-kerrie-bingle.jpg",
+        "terms": [],
+        "fields": {
+            "job_title": "Finance & Business Manager",
+            "bio": "<p>Kerrie keeps the business running smoothly. From finance and contracts to supplier relationships, she makes sure the team has everything it needs to do its best work for clients.</p>",
+            "linkedin": "https://www.linkedin.com/"
+        }
+    },
+    {
+        "type": "team_member",
+        "slug": "darren-bond",
+        "title": "Darren Bond",
+        "excerpt": "",
+        "menu_order": 3,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "team-darren-bond.jpg",
+        "terms": [],
+        "fields": {
+            "job_title": "Fractional Operations Director",
+            "bio": "<p>Darren joins Crucible part-time as Fractional Operations Director, bringing years of experience scaling delivery teams. He looks after process, planning and the way projects move from brief to launch.</p>",
+            "linkedin": "https://www.linkedin.com/"
+        }
+    },
+    {
+        "type": "team_member",
+        "slug": "charlie-collings",
+        "title": "Charlie Collings",
+        "excerpt": "",
+        "menu_order": 4,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "team-charlie-collings.jpg",
+        "terms": [],
+        "fields": {
+            "job_title": "Performance Manager",
+            "bio": "<p>Charlie leads our paid media and SEO performance work. She turns data into clear next steps, and has a knack for finding the one change that moves the numbers for our construction and property clients.</p>",
+            "linkedin": "https://www.linkedin.com/"
+        }
+    },
+    {
+        "type": "team_member",
+        "slug": "alessio-maccuro",
+        "title": "Alessio Maccuro",
+        "excerpt": "",
+        "menu_order": 5,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "team-alessio-maccuro.jpg",
+        "terms": [],
+        "fields": {
+            "job_title": "Web Developer",
+            "bio": "<p>Alessio builds the fast, accessible websites that sit at the heart of what we do. He cares about clean code, strong Core Web Vitals and sites that are a pleasure for editors to use.</p>",
+            "linkedin": "https://www.linkedin.com/"
+        }
+    },
+    {
+        "type": "team_member",
+        "slug": "charles-obrien",
+        "title": "Charles O’Brien",
+        "excerpt": "",
+        "menu_order": 6,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "team-charles-obrien.jpg",
+        "terms": [],
+        "fields": {
+            "job_title": "Accounts & Operations Manager",
+            "bio": "<p>Charles is the day-to-day contact for many of our clients. He keeps projects on track, on budget and well communicated, and makes sure nothing falls between the cracks.</p>",
+            "linkedin": "https://www.linkedin.com/"
+        }
+    },
+    {
+        "type": "team_member",
+        "slug": "carrie-adam",
+        "title": "Carrie Adam",
+        "excerpt": "",
+        "menu_order": 7,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "team-carrie-adam.jpg",
+        "terms": [],
+        "fields": {
+            "job_title": "Digital Marketing Manager",
+            "bio": "<p>Carrie talks to manufacturers, contractors and developers every day about what they want from their websites and marketing. If you are thinking about a project, she is the person to speak to first.</p>",
+            "linkedin": "https://www.linkedin.com/"
+        }
+    },
+    {
+        "type": "team_member",
+        "slug": "rachel-nel",
+        "title": "Rachel Nel",
+        "excerpt": "",
+        "menu_order": 8,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "team-rachel-nel.jpg",
+        "terms": [],
+        "fields": {
+            "job_title": "Operations & Content Coordinator",
+            "bio": "<p>Rachel coordinates our content calendar and the many moving parts behind each campaign, from briefing writers to scheduling publication and reporting.</p>",
+            "linkedin": "https://www.linkedin.com/"
+        }
+    },
+    {
+        "type": "team_member",
+        "slug": "ellen-warren",
+        "title": "Ellen Warren",
+        "excerpt": "",
+        "menu_order": 9,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "team-ellen-warren.jpg",
+        "terms": [],
+        "fields": {
+            "job_title": "Copywriter",
+            "bio": "<p>Ellen writes the words on our clients’ websites, in their emails and across their campaigns. She specialises in making technical products and services easy to understand.</p>",
+            "linkedin": "https://www.linkedin.com/"
+        }
+    },
+    {
+        "type": "service",
+        "slug": "seo-ai-discoverability",
+        "title": "SEO & AI Discoverability",
+        "excerpt": "",
+        "menu_order": 1,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "service-seo.jpg",
+        "terms": [],
+        "fields": {
+            "tier": "primary",
+            "card_text": "With over a decade of experience in digital marketing for construction companies, we provide clear, defined packages. Our SEO is driven by human expertise and content written entirely by people."
+        }
+    },
+    {
+        "type": "service",
+        "slug": "website-design-development",
+        "title": "Website Design & Development",
+        "excerpt": "",
+        "menu_order": 2,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "service-web.jpg",
+        "terms": [],
+        "fields": {
+            "tier": "primary",
+            "card_text": "With over a decade of experience in digital marketing for construction companies, we provide clear, defined packages. Our SEO is driven by human expertise and content written entirely by people."
+        }
+    },
+    {
+        "type": "service",
+        "slug": "pay-per-click",
+        "title": "Pay Per Click",
+        "excerpt": "",
+        "menu_order": 3,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "service-ppc.jpg",
+        "terms": [],
+        "fields": {
+            "tier": "primary",
+            "card_text": "At Crucible, we create and manage paid campaigns that are tailored to your goals, whether that's driving sales, generating leads, or boosting brand visibility, with the accountability you'd expect from a B2B digital marketing agency in the UK."
+        }
+    },
+    {
+        "type": "service",
+        "slug": "website-support",
+        "title": "Website Support",
+        "excerpt": "",
+        "menu_order": 4,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "photo-userfocused.jpg",
+        "terms": [],
+        "fields": {
+            "tier": "additional",
+            "card_text": "You get a named contact and developers who already understand how your site is put together. No re-explaining your COINS setup every time you raise a ticket."
+        }
+    },
+    {
+        "type": "service",
+        "slug": "hosting",
+        "title": "Hosting",
+        "excerpt": "",
+        "menu_order": 5,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "service-hosting.jpg",
+        "terms": [],
+        "fields": {
+            "tier": "additional",
+            "card_text": "We host the sites we build and support on managed infrastructure, with the same team handling the server and the site."
+        }
+    },
+    {
+        "type": "career",
+        "slug": "web-developer",
+        "title": "Web Developer",
+        "excerpt": "",
+        "menu_order": 0,
+        "days_ago": 2,
+        "content": "<h3>What you’ll be doing</h3><ul><li>Building custom WordPress themes and blocks from design files</li><li>Making sure every site is fast, accessible and easy for editors to manage</li><li>Fixing bugs and handling updates for sites on our Website Support plans</li><li>Working with SEO and design colleagues on migrations and launches</li><li>Reviewing code with the rest of the team</li></ul><h3>What we’ll look for</h3><ul><li>Strong PHP, JavaScript, HTML and CSS (Sass), and experience with WordPress and Advanced Custom Fields</li><li>An eye for performance and Core Web Vitals</li><li>Experience with Git and a sensible deployment process</li><li>A portfolio of sites you are proud of</li></ul><h3>What we offer</h3><ul><li>A salary of £40,000 to £52,000, depending on experience</li><li>Remote working anywhere in the UK, with team days in London</li><li>25 days’ holiday plus bank holidays</li><li>Equipment of your choice, and a training budget</li></ul>",
+        "thumbnail": "",
+        "terms": [],
+        "fields": {
+            "location": "Remote, UK",
+            "summary": "Build fast, accessible WordPress websites for construction, property and manufacturing clients. You’ll turn designs into clean, well-structured themes and custom blocks, and help keep our hosted sites secure and quick."
+        }
+    },
+    {
+        "type": "career",
+        "slug": "seo-content-strategist",
+        "title": "SEO Content Strategist",
+        "excerpt": "",
+        "menu_order": 0,
+        "days_ago": 1,
+        "content": "<h3>What you’ll be doing</h3><ul><li>Researching keywords and search intent for construction, property and manufacturing clients</li><li>Auditing existing content and finding the gaps competitors are filling</li><li>Writing clear briefs for our copywriters, and reviewing drafts before they go live</li><li>Optimising titles, headings, internal links and page structure</li><li>Reporting on organic traffic, rankings and enquiries each month</li><li>Working with our developers on technical fixes and site migrations</li></ul><h3>What we’ll look for</h3><ul><li>Proven experience planning and delivering SEO content programmes</li><li>Confidence with tools such as Search Console, GA4 and Semrush or Ahrefs</li><li>Excellent written English and an eye for detail</li><li>An understanding of how people search with AI tools as well as Google</li></ul><h3>What we offer</h3><ul><li>A salary of £36,000 to £44,000, depending on experience</li><li>Hybrid working from our London office, with flexible hours</li><li>25 days’ holiday plus bank holidays, and your birthday off</li><li>A training budget, and time to use it</li></ul>",
+        "thumbnail": "",
+        "terms": [],
+        "fields": {
+            "location": "London, hybrid",
+            "summary": "Plan and execute content strategies that actually move rankings — keyword research, content gap analysis, on-page optimisation, and briefing writers. You’ll report on organic performance monthly and work with the dev team on technical SEO fixes."
+        }
+    },
+    {
+        "type": "career",
+        "slug": "paid-social-manager",
+        "title": "Paid Social Manager",
+        "excerpt": "",
+        "menu_order": 0,
+        "days_ago": 1,
+        "content": "<h3>What you’ll be doing</h3><ul><li>Planning and executing paid campaigns across Meta, TikTok, and LinkedIn Ads</li><li>Managing budgets across multiple client accounts, reallocating spend based on performance</li><li>Running A/B tests on creative, copy, and audience targeting</li><li>Building and presenting monthly performance reports with clear, actionable takeaways</li><li>Briefing the content and design teams on creative needs based on what’s converting</li><li>Keeping an eye on platform updates and testing new ad formats early</li><li>Working with account managers to make sure paid activity ties back to client goals</li></ul><h3>What we’ll look for</h3><ul><li>At least 3 years managing paid social for B2B or B2C brands, ideally in an agency</li><li>Hands-on experience with Meta Ads Manager and LinkedIn Campaign Manager</li><li>A clear, data-led way of explaining what is working and why</li><li>Curiosity about construction, property and manufacturing audiences</li></ul><h3>What we offer</h3><ul><li>A salary of £38,000 to £45,000, depending on experience</li><li>Hybrid working from our London office, with flexible hours</li><li>25 days’ holiday plus bank holidays, and your birthday off</li><li>A training budget, and time to use it</li><li>A friendly team, and social gatherings that are always fun</li></ul>",
+        "thumbnail": "",
+        "terms": [],
+        "fields": {
+            "location": "London, hybrid",
+            "summary": "Run and optimise paid campaigns across Meta, TikTok, and LinkedIn for a mixed portfolio of B2B and B2C clients. You'll own budget allocation, creative testing, and reporting, working closely with the content and design teams to keep ad creative sharp."
+        }
+    },
+    {
+        "type": "case_study",
+        "slug": "a-new-website-and-seo-migration-for-wci-group",
+        "title": "A New Website and SEO migration for WCI Group",
+        "excerpt": "",
+        "menu_order": 1,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "cs-wci.jpg",
+        "terms": {
+            "sector": [
+                "Specialist manufacturers"
+            ],
+            "service_area": [
+                "SEO & AI Discoverability",
+                "Website Design & Development"
+            ]
+        },
+        "fields": {
+            "client_name": "WCI Group Ltd",
+            "intro": "A new website and a clean SEO migration for a specialist water-tank manufacturer."
+        }
+    },
+    {
+        "type": "case_study",
+        "slug": "form-submits-up-580-seo-for-kenwood-damp-proofing",
+        "title": "Form submits up 580% – SEO for Kenwood Damp Proofing",
+        "excerpt": "",
+        "menu_order": 2,
+        "days_ago": 2,
+        "content": "",
+        "thumbnail": "cs-kenwood.jpg",
+        "terms": {
+            "sector": [
+                "Construction"
+            ],
+            "service_area": [
+                "SEO & AI Discoverability"
+            ]
+        },
+        "fields": {
+            "client_name": "Kenwood Damp Proofing",
+            "title_highlight": "Form submits up 580%",
+            "intro": "Local SEO that turned a quiet website into the main source of enquiries."
+        }
+    },
+    {
+        "type": "case_study",
+        "slug": "87-increase-in-conversions-seo-for-westbury-garden-rooms",
+        "title": "87% Increase in Conversions – SEO for Westbury Garden Rooms",
+        "excerpt": "",
+        "menu_order": 3,
+        "days_ago": 3,
+        "content": "",
+        "thumbnail": "project-westbury.jpg",
+        "terms": {
+            "sector": [
+                "Property"
+            ],
+            "service_area": [
+                "SEO & AI Discoverability"
+            ]
+        },
+        "fields": {
+            "client_name": "Westbury Grds",
+            "title_highlight": "87% Increase",
+            "intro": "A structured SEO recovery for the UK's leading orangery manufacturer.",
+            "stat_value": "28%",
+            "stat_caption": "Increase in Organic Sessions",
+            "testimonial": "testimonial:alex-rayner-braxted-park-bng",
+            "secondary_image": "project-beresfords.jpg",
+            "live_url": "https://www.westburygardenrooms.co.uk/"
+        }
+    },
+    {
+        "type": "case_study",
+        "slug": "website-design-build-for-building-product-design-installation-company",
+        "title": "Website Design & Build for Building Product Design & Installation Company",
+        "excerpt": "",
+        "menu_order": 4,
+        "days_ago": 4,
+        "content": "",
+        "thumbnail": "project-safehinge.jpg",
+        "terms": {
+            "sector": [
+                "Specialist manufacturers"
+            ],
+            "service_area": [
+                "Website Design & Development"
+            ]
+        },
+        "fields": {
+            "client_name": "Safehinge Primera",
+            "intro": "A new website for a building product design and installation company.",
+            "testimonial": "testimonial:dan-goddard-broxap"
+        }
+    },
+    {
+        "type": "case_study",
+        "slug": "5-1-average-position-improvements-in-six-months-seo-for-outdoor-gym-installation-company",
+        "title": "5.1+ average position improvements in six months – SEO for Outdoor Gym Installation Company",
+        "excerpt": "",
+        "menu_order": 5,
+        "days_ago": 5,
+        "content": "",
+        "thumbnail": "project-sunshine.jpg",
+        "terms": {
+            "sector": [
+                "Specialist manufacturers"
+            ],
+            "service_area": [
+                "SEO & AI Discoverability"
+            ]
+        },
+        "fields": {
+            "client_name": "Sunshine Gym",
+            "title_highlight": "5.1+ average position",
+            "intro": "Six months of focused SEO for an outdoor gym installer."
+        }
+    },
+    {
+        "type": "case_study",
+        "slug": "website-support-and-management-for-leading-property-group",
+        "title": "Website Support and Management for Leading Property Group",
+        "excerpt": "",
+        "menu_order": 6,
+        "days_ago": 6,
+        "content": "",
+        "thumbnail": "project-beresfords.jpg",
+        "terms": {
+            "sector": [
+                "Property"
+            ],
+            "service_area": [
+                "Website Support"
+            ]
+        },
+        "fields": {
+            "client_name": "Beresfords Group",
+            "intro": "Ongoing support and management for a leading property group."
+        }
+    },
+    {
+        "type": "case_study",
+        "slug": "website-design-build-for-family-run-plumbing-heating-business",
+        "title": "Website Design & Build for Family-Run Plumbing & Heating Business",
+        "excerpt": "",
+        "menu_order": 7,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "cs-pjbones.jpg",
+        "terms": {
+            "sector": [
+                "Construction"
+            ],
+            "service_area": [
+                "Website Design & Development"
+            ]
+        },
+        "fields": {
+            "client_name": "PJ Bones",
+            "intro": "A fast, clear website for a family-run plumbing and heating firm."
+        }
+    },
+    {
+        "type": "case_study",
+        "slug": "property-website",
+        "title": "Property Website",
+        "excerpt": "",
+        "menu_order": 8,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "cs-whybrow.jpg",
+        "terms": {
+            "sector": [
+                "Property"
+            ],
+            "service_area": [
+                "Website Design & Development"
+            ]
+        },
+        "fields": {
+            "client_name": "Whybrow",
+            "intro": "A new property website for a leading regional property group."
+        }
+    },
+    {
+        "type": "case_study",
+        "slug": "9-85-ctr-paid-management-for-duralock",
+        "title": "9.85% CTR – Paid Management for Duralock",
+        "excerpt": "",
+        "menu_order": 9,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "cs-duralock.jpg",
+        "terms": {
+            "sector": [
+                "Specialist manufacturers"
+            ],
+            "service_area": [
+                "Pay Per Click"
+            ]
+        },
+        "fields": {
+            "client_name": "Duralock",
+            "title_highlight": "9.85% CTR",
+            "intro": "Paid search management for a manufacturer of artificial turf and sports surfaces."
+        }
+    },
+    {
+        "type": "case_study",
+        "slug": "impressions-tripled-from-5980-to-15670-seo-for-aliwood",
+        "title": "Impressions tripled from 5,980 to 15,670 – SEO for Aliwood",
+        "excerpt": "",
+        "menu_order": 10,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "cs-aliwood.jpg",
+        "terms": {
+            "sector": [
+                "Specialist manufacturers"
+            ],
+            "service_area": [
+                "Pay Per Click",
+                "SEO & AI Discoverability"
+            ]
+        },
+        "fields": {
+            "client_name": "Aliwood",
+            "title_highlight": "Impressions tripled from 5,980 to 15,670",
+            "intro": "SEO and paid search for a roof lantern and glazing manufacturer."
+        }
+    },
+    {
+        "type": "post",
+        "slug": "profound-raised-180m-heres-why-profound-is-already-our-ai-visibility-platform-of-choice",
+        "title": "Profound Raised $180m. Here's Why Profound Is Already Our AI Visibility Platform of Choice",
+        "excerpt": "Practical, plain-English advice for construction and property marketers.",
+        "menu_order": 0,
+        "days_ago": 49,
+        "content": "",
+        "thumbnail": "insight-1.jpg",
+        "terms": {
+            "category": [
+                "AI"
+            ],
+            "format": [
+                "Article"
+            ]
+        },
+        "fields": {
+            "title_highlight": "Profound Raised $180m.",
+            "host": "team_member:george-hosegood"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "ep2-building-a-brand-that-specifiers-trust",
+        "title": "Ep2: Building a Brand That Specifiers Trust",
+        "excerpt": "Brand, proof and consistency: what makes a specifier trust a manufacturer.",
+        "menu_order": 0,
+        "days_ago": 42,
+        "content": "",
+        "thumbnail": "ins-podcast.jpg",
+        "terms": {
+            "category": [
+                "Design",
+                "Marketing"
+            ],
+            "format": [
+                "Podcast"
+            ]
+        },
+        "fields": {
+            "title_highlight": "Ep2:",
+            "host": "team_member:george-hosegood",
+            "episode": "Ep2",
+            "listen_url": "https://open.spotify.com/"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "ep3-ai-search-and-what-it-means-for-manufacturers",
+        "title": "Ep3: AI Search and What It Means for Manufacturers",
+        "excerpt": "Is AI search a threat or an opportunity for specialist manufacturers?",
+        "menu_order": 0,
+        "days_ago": 35,
+        "content": "",
+        "thumbnail": "ins-podcast.jpg",
+        "terms": {
+            "category": [
+                "AI"
+            ],
+            "format": [
+                "Podcast"
+            ]
+        },
+        "fields": {
+            "title_highlight": "Ep3:",
+            "host": "team_member:george-hosegood",
+            "episode": "Ep3",
+            "listen_url": "https://open.spotify.com/"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "ep4-why-your-website-is-your-best-salesperson",
+        "title": "Ep4: Why Your Website Is Your Best Salesperson",
+        "excerpt": "What a B2B website has to do before a buyer ever picks up the phone.",
+        "menu_order": 0,
+        "days_ago": 28,
+        "content": "",
+        "thumbnail": "ins-podcast.jpg",
+        "terms": {
+            "category": [
+                "Design"
+            ],
+            "format": [
+                "Podcast"
+            ]
+        },
+        "fields": {
+            "title_highlight": "Ep4:",
+            "host": "team_member:george-hosegood",
+            "episode": "Ep4",
+            "listen_url": "https://open.spotify.com/"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "ep5-winning-specification-in-construction",
+        "title": "Ep5: Winning Specification in Construction",
+        "excerpt": "How manufacturers get specified: content, relationships and the architect journey.",
+        "menu_order": 0,
+        "days_ago": 21,
+        "content": "",
+        "thumbnail": "ins-podcast.jpg",
+        "terms": {
+            "category": [
+                "Marketing"
+            ],
+            "format": [
+                "Podcast"
+            ]
+        },
+        "fields": {
+            "title_highlight": "Ep5:",
+            "host": "team_member:george-hosegood",
+            "episode": "Ep5",
+            "listen_url": "https://open.spotify.com/"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "ep6-building-product-marketing",
+        "title": "Ep6: Building Product Marketing",
+        "excerpt": "Podcast with George Hosegood & market leader - Barbour ABI",
+        "menu_order": 0,
+        "days_ago": 14,
+        "content": "",
+        "thumbnail": "ins-podcast.jpg",
+        "terms": {
+            "category": [
+                "Marketing"
+            ],
+            "format": [
+                "Podcast"
+            ]
+        },
+        "fields": {
+            "episode": "Ep6",
+            "listen_url": "https://open.spotify.com/",
+            "host": "team_member:george-hosegood",
+            "title_highlight": "Ep6:",
+            "sponsor_logo": "logo-barbourabi.png"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "toxic-backlinks-are-increasing-and-ai-is-the-reason",
+        "title": "Toxic backlinks are increasing, and AI is the reason",
+        "excerpt": "Practical, plain-English advice for construction and property marketers.",
+        "menu_order": 0,
+        "days_ago": 13,
+        "content": "",
+        "thumbnail": "ins-chain.jpg",
+        "terms": {
+            "category": [
+                "AI",
+                "Marketing"
+            ],
+            "format": [
+                "Article"
+            ]
+        },
+        "fields": {
+            "host": "team_member:george-hosegood"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "chatgpts-new-search-index-changes-ai-search-optimisation-but-not-how-you-think",
+        "title": "ChatGPT's New Search Index Changes AI Search Optimisation, But Not How You Think",
+        "excerpt": "Practical, plain-English advice for construction and property marketers.",
+        "menu_order": 0,
+        "days_ago": 12,
+        "content": "",
+        "thumbnail": "ins-cubes.jpg",
+        "terms": {
+            "category": [
+                "AI",
+                "Marketing"
+            ],
+            "format": [
+                "Article"
+            ]
+        },
+        "fields": {
+            "host": "team_member:george-hosegood"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "the-best-website-analytics-tools-for-your-website",
+        "title": "The Best Website Analytics Tools For Your Website",
+        "excerpt": "Practical, plain-English advice for construction and property marketers.",
+        "menu_order": 0,
+        "days_ago": 11,
+        "content": "",
+        "thumbnail": "ins-laptop.jpg",
+        "terms": {
+            "category": [
+                "Marketing"
+            ],
+            "format": [
+                "Article"
+            ]
+        },
+        "fields": {
+            "host": "team_member:carrie-adam"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "optimising-your-website-conversion-rate-10-basic-steps-for-cro",
+        "title": "Optimising your Website Conversion Rate: 10 Basic Steps For CRO",
+        "excerpt": "Practical, plain-English advice for construction and property marketers.",
+        "menu_order": 0,
+        "days_ago": 10,
+        "content": "",
+        "thumbnail": "ins-pipes.jpg",
+        "terms": {
+            "category": [
+                "Marketing"
+            ],
+            "format": [
+                "Article"
+            ]
+        },
+        "fields": {
+            "host": "team_member:kerrie-bingle"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "leading-digital-agency-crucible-announces-move-to-crucible-io",
+        "title": "Leading digital agency, Crucible, announces move to Crucible.io",
+        "excerpt": "Practical, plain-English advice for construction and property marketers.",
+        "menu_order": 0,
+        "days_ago": 9,
+        "content": "",
+        "thumbnail": "ins-coding.jpg",
+        "terms": {
+            "category": [
+                "Development",
+                "Marketing"
+            ],
+            "format": [
+                "Article"
+            ]
+        },
+        "fields": {
+            "host": "team_member:george-hosegood"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "top-trends-website-design-techniques-styles-for-2022",
+        "title": "Top Trends: Website Design Techniques & Styles for 2022",
+        "excerpt": "Practical, plain-English advice for construction and property marketers.",
+        "menu_order": 0,
+        "days_ago": 8,
+        "content": "",
+        "thumbnail": "ins-model.jpg",
+        "terms": {
+            "category": [
+                "Design"
+            ],
+            "format": [
+                "Article"
+            ]
+        },
+        "fields": {
+            "host": "team_member:carrie-adam"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "event-monthly-industry-breakfast-at-langhams",
+        "title": "Event: Monthly industry breakfast at Langham's",
+        "excerpt": "Join us for breakfast and an honest conversation with other marketers from construction, property and manufacturing. No sales pitch, just good food and useful ideas.",
+        "menu_order": 0,
+        "days_ago": 7,
+        "content": "",
+        "thumbnail": "ins-event.jpg",
+        "terms": {
+            "category": [
+                "Marketing"
+            ],
+            "format": [
+                "Event"
+            ]
+        },
+        "fields": {
+            "title_highlight": "Event:",
+            "host": "team_member:carrie-adam",
+            "event_date": "20261112",
+            "event_location": "Langham's, London",
+            "event_url": "https://example.com/events/breakfast"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "how-to-create-a-digital-marketing-strategy",
+        "title": "How to Create a Digital Marketing Strategy",
+        "excerpt": "Practical, plain-English advice for construction and property marketers.",
+        "menu_order": 0,
+        "days_ago": 6,
+        "content": "",
+        "thumbnail": "ins-dashboard.jpg",
+        "terms": {
+            "category": [
+                "Marketing"
+            ],
+            "format": [
+                "Article"
+            ]
+        },
+        "fields": {
+            "host": "team_member:kerrie-bingle"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "website-content-strategy-measuring-success",
+        "title": "Website Content Strategy: Measuring Success",
+        "excerpt": "Practical, plain-English advice for construction and property marketers.",
+        "menu_order": 0,
+        "days_ago": 5,
+        "content": "",
+        "thumbnail": "ins-meeting.jpg",
+        "terms": {
+            "category": [
+                "Design",
+                "Marketing"
+            ],
+            "format": [
+                "Article"
+            ]
+        },
+        "fields": {
+            "host": "team_member:carrie-adam"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "welcome-to-your-updated-analytics-ga4-dashboard",
+        "title": "Welcome to your updated analytics GA4 dashboard",
+        "excerpt": "Practical, plain-English advice for construction and property marketers.",
+        "menu_order": 0,
+        "days_ago": 4,
+        "content": "",
+        "thumbnail": "ins-phone.jpg",
+        "terms": {
+            "category": [
+                "Marketing"
+            ],
+            "format": [
+                "Article"
+            ]
+        },
+        "fields": {
+            "host": "team_member:kerrie-bingle"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "digital-marketing-trends-in-2024",
+        "title": "Digital Marketing Trends in 2024",
+        "excerpt": "Practical, plain-English advice for construction and property marketers.",
+        "menu_order": 0,
+        "days_ago": 3,
+        "content": "",
+        "thumbnail": "ins-tiles.jpg",
+        "terms": {
+            "category": [
+                "Marketing"
+            ],
+            "format": [
+                "Article"
+            ]
+        },
+        "fields": {
+            "host": "team_member:carrie-adam"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "how-to-create-a-digital-marketing-plan-top-strategies-for-smes",
+        "title": "How to Create a Digital Marketing Plan: Top Strategies for SMEs",
+        "excerpt": "Practical, plain-English advice for construction and property marketers.",
+        "menu_order": 0,
+        "days_ago": 2,
+        "content": "",
+        "thumbnail": "ins-workshop.jpg",
+        "terms": {
+            "category": [
+                "Marketing"
+            ],
+            "format": [
+                "Article"
+            ]
+        },
+        "fields": {
+            "host": "team_member:carrie-adam"
+        }
+    },
+    {
+        "type": "post",
+        "slug": "how-to-create-web-pages-that-drive-architect-specification",
+        "title": "How to Create Web Pages That Drive Architect Specification",
+        "excerpt": "Practical, plain-English advice for construction and property marketers.",
+        "menu_order": 0,
+        "days_ago": 1,
+        "content": "",
+        "thumbnail": "ins-stairs.jpg",
+        "terms": {
+            "category": [
+                "Marketing"
+            ],
+            "format": [
+                "Article"
+            ]
+        },
+        "fields": {
+            "host": "team_member:kerrie-bingle"
+        }
+    }
+]

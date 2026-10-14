@@ -1,0 +1,32 @@
+[
+    {
+        "section": "Hero: the proposal title, with the client and expiry date beneath",
+        "fields": [
+            "Title (the page title at the top of the editor)",
+            "Proposal box, below the title: Client name",
+            "Proposal box: Valid until"
+        ],
+        "notes": [
+            "The line under the title reads \"Client name / Valid until 31 Dec 2027\". Either part is left out if its field is empty.",
+            "Proposals are private. Visitors need to be logged in to see them, and search engines are told to ignore them."
+        ]
+    },
+    {
+        "section": "Proposal text: a single column",
+        "fields": [
+            "The main editor (the proposal body)"
+        ],
+        "notes": [
+            "Use headings, paragraphs and lists to set out where the client is now, what you will do and the next steps."
+        ]
+    },
+    {
+        "section": "Back to proposals button",
+        "fields": [
+            "Built automatically"
+        ],
+        "notes": [
+            "The button returns to the list of proposals."
+        ]
+    }
+]

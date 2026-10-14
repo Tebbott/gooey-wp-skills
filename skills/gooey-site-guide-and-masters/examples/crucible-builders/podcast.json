@@ -1,0 +1,62 @@
+[
+    {
+        "section": "Hero: a sand panel with the title, standfirst, host and episode beside a large photograph",
+        "fields": [
+            "Title (the page title at the top of the editor)",
+            "Insight box, below the title: Title highlight",
+            "Insight box: Hosted / written by",
+            "Excerpt (box beside the editor)",
+            "Featured image (box beside the editor)",
+            "Format (box beside the editor): Podcast",
+            "Topics (box beside the editor)",
+            "Podcast details box: Episode"
+        ],
+        "notes": [
+            "Choose the Podcast format first, so the Podcast details box appears under the editor.",
+            "Title highlight is the part of the title shown in coral. Type it exactly as it appears in the title.",
+            "The byline says \"Hosted by\" with the chosen team member's photograph. If no host is chosen, the WordPress author is shown instead.",
+            "The Episode is shown beside the date as \"Episode 7\". Type just the number, or something like Ep7 (the \"Ep\" is tidied away)."
+        ]
+    },
+    {
+        "section": "Podcast details strip: episode, sponsor and the Listen button",
+        "fields": [
+            "Podcast details box: Episode",
+            "Podcast details box: Sponsor / partner logo",
+            "Podcast details box: Listen link"
+        ],
+        "notes": [
+            "The strip shows the episode, the sponsor logo under \"Sponsored by\" and a Listen button that opens the Listen link in a new tab.",
+            "The Listen link can go to Spotify, Apple Podcasts or YouTube. Leave the sponsor logo empty to hide the Sponsored by part.",
+            "The sponsor logo is also shown on the home page hero card."
+        ]
+    },
+    {
+        "section": "Show notes: the main column",
+        "fields": [
+            "The main editor (the show notes)"
+        ],
+        "notes": [
+            "Use Heading 2 for each section, for example In this episode. They build the On this page list."
+        ]
+    },
+    {
+        "section": "Sidebar: On this page and the timeline form",
+        "fields": [
+            "Built automatically from the Heading 2s"
+        ],
+        "notes": [
+            "There is nothing to fill in. The form is the same on every insight."
+        ]
+    },
+    {
+        "section": "Related insights and the closing call to action",
+        "fields": [
+            "Topics (box beside the editor)"
+        ],
+        "notes": [
+            "Three other insights that share a Topic are shown automatically.",
+            "The dark \"Interested in working with us?\" band is a shared pattern."
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "section": "Hero: the role title, summary and location on a sand band",
+        "fields": [
+            "Title (the page title at the top of the editor)",
+            "Role box, below the title: Summary",
+            "Role box: Location"
+        ],
+        "notes": [
+            "The Summary is the short paragraph under the title. It is also shown on the vacancy card and as the lead paragraph when the role opens in a panel on the Careers page.",
+            "The Location is the small line under the summary and on the vacancy card, for example London, hybrid.",
+            "The coral full stop after the title is added for you."
+        ]
+    },
+    {
+        "section": "Role description: a narrow column of text",
+        "fields": [
+            "The main editor (the full role description)"
+        ],
+        "notes": [
+            "Use headings for About the role, What you will do, About you and What we offer, and lists for the details.",
+            "The same text is used on this page and in the panel on the Careers page."
+        ]
+    },
+    {
+        "section": "All current vacancies link, Apply button and questions link",
+        "fields": [
+            "Built automatically"
+        ],
+        "notes": [
+            "The Apply button takes the visitor to the application form on the Careers page with the role already filled in.",
+            "The Get in touch link opens the Contact page."
+        ]
+    }
+]

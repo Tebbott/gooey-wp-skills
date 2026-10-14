@@ -1,0 +1,81 @@
+[
+    {
+        "section": "Hero: a sand panel with the title, standfirst and byline, beside a large photograph",
+        "fields": [
+            "Title (the page title at the top of the editor)",
+            "Insight box, below the title: Title highlight",
+            "Excerpt (box beside the editor)",
+            "Featured image (box beside the editor)",
+            "Format (box beside the editor): Article",
+            "Topics (box beside the editor)",
+            "Author (box beside the editor)",
+            "Publish date (box beside the editor)"
+        ],
+        "notes": [
+            "Title highlight is the part of the title shown in coral. Type it exactly as it appears in the title. If it is empty, the whole title stays dark.",
+            "The sentence under the title is the Excerpt. If the Excerpt is empty, the first 32 words of the article are used instead.",
+            "The byline says \"Written by\" and shows the WordPress author with their profile picture. The Host field on the Insight box is only used for events and podcasts.",
+            "Up to three Topics appear as links beside the date. The read time is worked out for you from the length of the article.",
+            "The Featured image sits beside the title, with a coral circle over its corner. Use a landscape photograph at least 1200 pixels wide."
+        ]
+    },
+    {
+        "section": "Article text: the main column",
+        "fields": [
+            "The main editor (the article body)"
+        ],
+        "notes": [
+            "Write in short sections and use Heading 2 for each main section and Heading 3 for sub-sections. Heading 2s build the On this page list.",
+            "Paragraphs, lists, quotes and images are normal editor blocks. Add the Image block from the Crucible blocks when you want a wide or full width image with a caption."
+        ]
+    },
+    {
+        "section": "Stats, video, gallery and banner blocks inside the text",
+        "fields": [
+            "Add block, then Crucible blocks: Stat",
+            "Add block, then Crucible blocks: Video",
+            "Add block, then Crucible blocks: Gallery (choose the Pair layout for articles)",
+            "Add block, then Crucible blocks: Banner",
+            "Add block, then Crucible blocks: Image"
+        ],
+        "notes": [
+            "Stat shows one to three big figures with a caption and an optional Source link.",
+            "Video takes a YouTube or Vimeo link and an optional cover image and caption. Nothing from YouTube or Vimeo loads until the visitor presses play.",
+            "Gallery in the Pair layout shows one or two photographs side by side. Tick Show captions to show the caption from the media library.",
+            "Banner has two styles: Image and text (sand), good for a link to a related article, and Text only (coral) for a short call-out with links."
+        ]
+    },
+    {
+        "section": "FAQs inside the text",
+        "fields": [
+            "Add block, then Crucible blocks: FAQ",
+            "FAQ block: Layout, Title, Intro text, Questions come from, Questions",
+            "FAQ block: Output FAQ schema"
+        ],
+        "notes": [
+            "The FAQ block adds its title to the end of the On this page list, so you do not need a separate heading above it.",
+            "Choose Type them here to write two to six questions in the block, or choose FAQ posts to reuse the shared questions.",
+            "Keep Output FAQ schema on only when these are real, public FAQs."
+        ]
+    },
+    {
+        "section": "Sidebar: On this page and the timeline form",
+        "fields": [
+            "Built automatically from the Heading 2s in the article"
+        ],
+        "notes": [
+            "The list follows the reader down the page. There is nothing to fill in.",
+            "The \"Get a timeline for your project\" form below it is the same on every article and is set up in the form settings."
+        ]
+    },
+    {
+        "section": "Related insights and the closing call to action",
+        "fields": [
+            "Topics (box beside the editor)"
+        ],
+        "notes": [
+            "Three other insights that share a Topic with this one are shown automatically. Giving every article at least one Topic makes this work well.",
+            "The dark \"Interested in working with us?\" band at the bottom is a shared pattern and is the same on every article."
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "acf/master-note",
+  "title": "Master page note",
+  "description": "A label for the master (example) pages: names a block or page style, says what it is for and lists the options shown. Not used on live pages.",
+  "category": "wl-sections",
+  "icon": "tag",
+  "keywords": [
+    "master",
+    "label",
+    "example",
+    "guide",
+    "help"
+  ],
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "template.php"
+  },
+  "supports": {
+    "align": false,
+    "anchor": true
+  }
+}
